@@ -1,0 +1,13 @@
+.SupermarketItem {
+}
+
+.SupermarketItem p {
+  margin-left: 10px;
+}
+
+.Cow,
+.Healthy,
+.Harvest {
+  height: 20px;
+  width: 20px;
+}

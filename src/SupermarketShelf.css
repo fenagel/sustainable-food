@@ -1,0 +1,16 @@
+.SupermarketShelf {
+  border: 1px solid #282c34;
+  height: 300px;
+  width: 300px;
+  overflow: hidden;
+  margin-right: 20px;
+}
+
+.SupermarketShelf1,
+.SupermarketShelf2,
+.SupermarketShelf3 {
+  height: 100px;
+  width: 100%;
+  border-top: 1px solid #282c34;
+  background-color: #c4c4c4;
+}
